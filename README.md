@@ -1,4 +1,4 @@
-# eqprop-non-sum-separable-energy-consideration
+# eqprop-interconnected-energy-function-consideration
 
 # Equilibrium Propagation with Non-Sum-Separable Energy Consideration
 
